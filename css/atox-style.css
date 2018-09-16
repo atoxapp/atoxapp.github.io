@@ -1,0 +1,49 @@
+/*----------------------------------------------------
+@File: Style for Atox
+@Author: Ericka Pricila
+@URL: http://erickapsilva.github.io
+Author E-mail: psilva.ericka@gmail.com
+
+This file contains the styling for the atox site!
+---------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css?family=Kalam|Permanent+Marker|Rock+Salt');
+
+#start-subtitle {
+	font-size: 16px;
+	text-transform: none;
+	padding-bottom: 30px !important;
+	font-weight: 100 !important;
+}
+#start-title{
+	font-family: 'Rock Salt', cursive;
+	text-transform: none !important;
+}
+
+#logo-atox{
+	margin-top: -20px;
+	width: 80%;
+}
+#container-logo-atox{
+	padding-left: 35px;
+}
+#social-media-list{
+}
+.label-data-info{
+	font-size: 16px !important;
+	letter-spacing: -1 !important;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.paragraph-data-info{
+	text-align: justify !important;
+}
+
+.background-white{
+	background: white;
+}
+.background-cold{
+	background: #f9faff !important;
+}
+.color-atox{
+	color: #439273;
+}
